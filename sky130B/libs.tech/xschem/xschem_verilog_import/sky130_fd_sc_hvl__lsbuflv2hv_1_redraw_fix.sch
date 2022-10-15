@@ -1,0 +1,1 @@
+/opt/pdk/share/pdk/sky130A/libs.tech/xschem/xschem_verilog_import/sky130_fd_sc_hvl__lsbuflv2hv_1_redraw_fix.sch

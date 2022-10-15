@@ -1,0 +1,1 @@
+/opt/pdk/share/pdk/sky130A/libs.tech/magic/seal_ring_generator/sky130_gen_sealring.py

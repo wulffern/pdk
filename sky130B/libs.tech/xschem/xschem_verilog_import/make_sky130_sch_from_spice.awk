@@ -1,0 +1,1 @@
+/opt/pdk/share/pdk/sky130A/libs.tech/xschem/xschem_verilog_import/make_sky130_sch_from_spice.awk

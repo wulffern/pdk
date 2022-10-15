@@ -1,0 +1,1 @@
+/opt/pdk/share/pdk/sky130A/libs.tech/xschem/decred_hash_macro/make_sch_from_spice.awk
